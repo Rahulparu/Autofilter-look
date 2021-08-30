@@ -11,17 +11,17 @@ Am Just A Advance Auto Filter Bot....😉
 You are not  able to add me to your group...😐
 But you can able to create me.......😍
 
-The code of this bot was edited by:--> @Anandhukuttu ⚜
+The code of this bot was edited by:--> @rahulrsparu ⚜
 Only editer not auther.......😅😅😅
 
-You are able to contact me:--> @Anandhukuttu 📵
+You are able to contact me:--> @rahulrsparu 📵
 </i>"""    
     
     HELP_TEXT = """
 <i>
 -> Add Me To Any Group And Make Me Admin..😎
 -> Add Me To Your Desired Channel..😜
--> Doubt"s contact--> @Anandhukuttu ☺️
+-> Doubt"s contact--> @rahulrsparu ☺️
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
