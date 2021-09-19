@@ -50,7 +50,7 @@ You are able to contact me:--> @RahulrsParu 📵
     
     ABOUT_TEXT = """<b>➥ My Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ My Creator</b> : <b><i><a href="https://t.me/Anandhukuttu">Anandhu</a></i></b>
+<b>➥ My Creator</b> : <b><i><a href="https://t.me/RahulrsParu">Rahul</a></i></b>
 
 <b>➥ My Language</b> : <code>Python3</code>
 
