@@ -107,8 +107,8 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('My Developer', url='https://t.me/Anandhukuttu'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Anandhu123555/Autofilter-look')
+        InlineKeyboardButton('My Developer', url='https://t.me/RahulrsParu'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/https://github.com/Rahulparu/Autofilter-look')
     ],[
         InlineKeyboardButton('Support🛠', url='https://t.me/moviecenter321')
     ],[
@@ -117,9 +117,10 @@ async def start(bot, update):
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
-    await bot.send_message(
+    await bot.send_photo(
         chat_id=update.chat.id,
-        text=Translation.START_TEXT.format(
+        Photo="https://telegra.ph/file/a9b419a8786a4a1608947.jpg",
+        caption=Translation.START_TEXT.format(
                 update.from_user.first_name),
         reply_markup=reply_markup,
         parse_mode="html",
